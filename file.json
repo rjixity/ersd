@@ -1,4 +1,7 @@
- {
+{
+  "name": "quar",
+  "downloads": [
+   {
       "title": "[DL] Quarantine Zone: The Last Check [P] [RUS + ENG + 12 / RUS + ENG] (2026, Simulation) (1.0.0.1202 + 5 DLC) [Portable]
  : 1, 2, 3 Next",
       "uris": [
@@ -8,4 +11,5 @@
       "fileSize": "9.13 GB",
       "repackLinkSource": "https://rutracker.org/forum/viewtopic.php?t=6801439"
     }
+}
 
